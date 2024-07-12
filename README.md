@@ -14,6 +14,6 @@ If you like our work, please cite our [paper]([https://arxiv.org/](https://arxiv
 @inproceedings{gomezvilla2024,
   title={Exemplar-free Continual Representation Learning via Learnable Drift Compensation},
   author={Gomez-Villa, Alex and Goswami, Dipam and Wang, Kai and Bagdanov Andrew and Twardowski, Bartlomiej  and van de Weijer, Joost},
-  booktitle={IEEE/CVF European Conference on Computer Vision},
+  booktitle={European Conference on Computer Vision},
   year={2024}
 }
