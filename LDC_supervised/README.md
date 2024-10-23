@@ -3,7 +3,7 @@
 
 ## Implementation for Supervised Continual Learning
 
-The code framework is taken from [PyCIL](https://github.com/G-U-N/PyCIL) and [ADC](https://github.com/dipamgoswami/ADC).
+The code framework is taken from [PyCIL](https://github.com/G-U-N/PyCIL).
 
 ### Dependencies
 1. [torch 1.81](https://github.com/pytorch/pytorch)
