@@ -25,7 +25,7 @@ To download ImageNet-Subset dataset: [Link](https://www.kaggle.com/datasets/arju
 
 ### Run experiments
 
-The code for LDC can be found in [models/lwf.py](https://github.com/alviur/ldc/blob/main/models/lwf.py).
+The code for LDC can be found in [models/lwf.py](https://github.com/alviur/ldc/blob/main/LDC_supervised/models/lwf.py).
 
 To use LDC, run
 
@@ -33,5 +33,5 @@ To use LDC, run
     python main.py --config=exps/lwf.json
    ```
 
-The configs can be modified in [exps/lwf.json](https://github.com/alviur/ldc/blob/main/exps/lwf.json).
+The configs can be modified in [exps/lwf.json](https://github.com/alviur/ldc/blob/main/LDC_supervised/exps/lwf.json).
 
