@@ -23,19 +23,8 @@ init_lr_decay = 0.1
 init_weight_decay = 0.0005
 
 # cifar100
-# epochs = 100
-# lrate = 0.05
-# milestones = [45, 90]
-# lrate_decay = 0.1
-# batch_size = 128
-# weight_decay = 2e-4
-# num_workers = 8
-# T = 2
-# lamda = 10
-
-# Tiny-ImageNet200
 epochs = 100
-lrate = 0.001
+lrate = 0.05
 milestones = [45, 90]
 lrate_decay = 0.1
 batch_size = 128
@@ -43,6 +32,17 @@ weight_decay = 2e-4
 num_workers = 8
 T = 2
 lamda = 10
+
+# Tiny-ImageNet200
+# epochs = 100
+# lrate = 0.001
+# milestones = [45, 90]
+# lrate_decay = 0.1
+# batch_size = 128
+# weight_decay = 2e-4
+# num_workers = 8
+# T = 2
+# lamda = 10
 
 # refer to supplementary materials for other dataset training settings
 
