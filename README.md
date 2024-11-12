@@ -1,4 +1,4 @@
-# Exemplar-free Continual Representation Learning via Learnable Drift Compensation
+# Exemplar-free Continual Representation Learning via Learnable Drift Compensation  [![Paper](https://img.shields.io/badge/arXiv-2407.08536-brightgreen)](https://arxiv.org/pdf/2407.08536)
 # The code will be available after ECCV
 
 This is the official repository for the paper:
